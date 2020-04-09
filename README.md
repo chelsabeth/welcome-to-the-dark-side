@@ -1,5 +1,5 @@
 # welcome-to-the-dark-side
-a fun little repo that I am gonna walk you through ♥️
+a fun little project that I am gonna walk you through ♥️
 
 # TO GET STARTED: 
 * cd into your project - `cd welcome-to-the-dark-side/`
