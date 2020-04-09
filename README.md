@@ -11,6 +11,7 @@ a fun little project that I am gonna walk you through ♥️
 
 # API DOCUMENTATION: 
 * we will just be pulling out the characters from this API, here is the documentation for that - `https://swapi.co/documentation#people`
+
 * link to all the docs - `https://swapi.co/documentation`
 
 # THE JAMS: https://youtu.be/FLgYVOTKrO8
