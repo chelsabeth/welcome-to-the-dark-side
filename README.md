@@ -9,4 +9,6 @@ a fun little project that I am gonna walk you through ♥️
 * npm install in this folder - `npm i`
 * npm start in this folder - `npm start`
 
+# API DOCUMENTATION: https://swapi.co/documentation
+
 # THE JAMS: https://youtu.be/FLgYVOTKrO8
